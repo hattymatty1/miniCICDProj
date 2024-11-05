@@ -4,7 +4,7 @@ const port = 3000;
 
 // Home page route
 app.get('/', (req, res) => {
-   res.send('<h1>Hello Vikas just testing my pipeline!</h1>');
+   res.send('<h1>Hey Vikas just testing my pipeline!</h1>');
    });
 
 //   // About page route
